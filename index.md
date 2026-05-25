@@ -1,5 +1,5 @@
 ---
-<h1> hello </h1>
+## hello
 
 title: Welcome to my blog!
 ---
